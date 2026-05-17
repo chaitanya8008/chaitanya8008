@@ -1,7 +1,6 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝙲𝚑𝚊𝚒𝚝𝚊𝚗𝚢𝚊 𝙶𝚊𝚛𝚐</h1>  
 <h2 align="center">𝙰𝚗 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 🚀</h2>
-<img align="right" alt="coding gif" width="350" height="350" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611c7ju288f35q6ikkln3x7i7lyqx9ssfqhlpjf3ezf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
+<img align="right" alt="coding gif" width="350" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611sp625qbtqb2qfduh4ed5aioz06knlbhop0r83jl8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <p align="left">
 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚊 𝟺𝚝𝚑 𝚈𝚎𝚊𝚛 𝙱.𝚃𝚎𝚌𝚑 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝙶𝚎𝚗𝙰𝙸 𝚊𝚗𝚍 𝙼𝙻 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 🤖💻.
 𝙸 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝙿𝚢𝚝𝚑𝚘𝚗 🐍 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚎𝚗𝚍-𝚝𝚘-𝚎𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚒𝚗𝚟𝚘𝚕𝚟𝚒𝚗𝚐  
